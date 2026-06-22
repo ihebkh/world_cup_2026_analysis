@@ -1,72 +1,91 @@
 ﻿joueur_id,nom,nationalite,position,date_naissance,equipe_id,equipe,buts,assists,matchs_joues,penaltys,derniere_maj
-3218,Lionel Messi,Argentina,,1987-06-24,762,Argentina,3,,1,,2026-06-19 17:09:30
-8924,Jonathan David,Canada,,2000-01-14,828,Canada,3,,2,,2026-06-19 17:09:30
-15958,Cyle Larin,Canada,,1995-04-17,828,Canada,2,,2,,2026-06-19 17:09:30
-131040,Folarin Balogun,USA,,2001-07-03,771,United States,2,,1,,2026-06-19 17:09:30
-171,Kai Havertz,Germany,,1999-06-11,759,Germany,2,,1,1,2026-06-19 17:09:30
-145613,Yasin Ayari,Sweden,,2003-10-06,792,Sweden,2,,1,,2026-06-19 17:09:30
-118981,Elijah Just,New Zealand,,2000-05-01,783,New Zealand,2,,1,,2026-06-19 17:09:30
-3374,Kylian Mbappé,France,,1998-12-20,773,France,2,,1,,2026-06-19 17:09:30
-38101,Erling Haaland,Norway,,2000-07-21,8872,Norway,2,,1,,2026-06-19 17:09:30
-8004,Harry Kane,England,,1993-07-28,770,England,2,,1,1,2026-06-19 17:09:30
-212309,Johan Manzambi,Switzerland,,2005-10-14,788,Switzerland,2,,2,,2026-06-19 17:09:30
-39237,Julián Quiñones,Colombia,,1997-03-24,769,Mexico,1,,2,,2026-06-19 17:09:30
-3305,Raúl Jiménez,Mexico,,1991-05-05,769,Mexico,1,,2,,2026-06-19 17:09:30
-1878,Ladislav Krejčí,Czech Republic,,1999-04-20,798,Czechia,1,,2,,2026-06-19 17:09:30
-170561,In-beom Hwang,South Korea,,1996-09-20,772,South Korea,1,1,2,,2026-06-19 17:09:30
-191295,Hyun-Gyu Oh,South Korea,,2001-04-12,772,South Korea,1,,2,,2026-06-19 17:09:30
-17767,Jovo Lukić,Bosnia-Herzegovina,,1998-11-28,1060,Bosnia-Herzegovina,1,,2,,2026-06-19 17:09:30
-119594,Mauricio,Paraguay,,2001-06-22,761,Paraguay,1,,1,,2026-06-19 17:09:30
-136733,Gio Reyna,USA,,2002-11-13,771,United States,1,,1,,2026-06-19 17:09:30
-3483,Breel Embolo,Switzerland,,1997-02-14,788,Switzerland,1,1,2,1,2026-06-19 17:09:30
-115828,Boualem Khoukhi,Qatar,,1990-07-09,8030,Qatar,1,,2,,2026-06-19 17:09:30
-130173,Ismael Saibari,Morocco,,2001-01-28,815,Morocco,1,,1,,2026-06-19 17:09:30
-1556,Vinicius Junior,Brazil,,2000-07-12,764,Brazil,1,,1,,2026-06-19 17:09:30
-34646,John McGinn,Scotland,,1994-10-18,8873,Scotland,1,,1,,2026-06-19 17:09:30
-176991,Nestor Irankunda,Australia,,2006-02-09,779,Australia,1,,1,,2026-06-19 17:09:30
-4635,Connor Metcalfe,Australia,,1999-11-05,779,Australia,1,,1,,2026-06-19 17:09:30
-101074,Felix Kalu Nmecha,Germany,,2000-10-10,759,Germany,1,,1,,2026-06-19 17:09:30
-166156,Livano Comenencia,Curaçao,,2004-02-03,9460,Curaçao,1,,1,,2026-06-19 17:09:30
-75539,Nico Schlotterbeck,Germany,,1999-12-01,759,Germany,1,,1,,2026-06-19 17:09:30
-144393,Jamal Musiala,Germany,,2003-02-26,759,Germany,1,,1,,2026-06-19 17:09:30
-184533,Nathaniel Brown,Germany,,2003-06-16,759,Germany,1,1,1,,2026-06-19 17:09:30
-6928,Deniz Undav,Germany,,1996-07-19,759,Germany,1,2,1,,2026-06-19 17:09:30
-7869,Virgil van Dijk,Netherlands,,1991-07-08,8601,Netherlands,1,,1,,2026-06-19 17:09:30
-48595,Keito Nakamura,Japan,,2000-07-28,766,Japan,1,,1,,2026-06-19 17:09:30
-102193,Crysencio Summerville,Netherlands,,2001-10-30,8601,Netherlands,1,,1,,2026-06-19 17:09:30
-6716,Daichi Kamada,Japan,,1996-08-05,766,Japan,1,,1,,2026-06-19 17:09:30
-133584,Amad Diallo,Ivory Coast,,2002-07-11,1935,Ivory Coast,1,,0,,2026-06-19 17:09:30
-6486,Alexander Isak,Sweden,,1999-09-21,792,Sweden,1,2,1,,2026-06-19 17:09:30
-144669,Omar Rekik,Tunisia,,2001-12-20,802,Tunisia,1,,1,,2026-06-19 17:09:30
-8279,Viktor Gyökeres,Sweden,,1998-06-04,792,Sweden,1,1,1,,2026-06-19 17:09:30
-15354,Mattias Svanberg,Sweden,,1999-01-05,792,Sweden,1,,1,,2026-06-19 17:09:30
-191972,Emam Ashour,Egypt,,1998-02-20,825,Egypt,1,,1,,2026-06-19 17:09:30
-103094,Abdulelah Al Amri,Saudi Arabia,,1997-01-15,801,Saudi Arabia,1,,1,,2026-06-19 17:09:30
-28770,Maximiliano Araújo,Uruguay,,2000-02-15,758,Uruguay,1,,1,,2026-06-19 17:09:30
-3804,Ramin Rezaeian,Iran,,1990-03-21,840,Iran,1,1,1,,2026-06-19 17:09:30
-172641,Mohammad Mohebi,Iran,,1998-12-20,840,Iran,1,,1,,2026-06-19 17:09:30
-172762,Bradley Barcola,France,,2002-09-02,773,France,1,,1,,2026-06-19 17:09:30
-265040,Ibrahim M'Baye,Senegal,,2008-01-24,804,Senegal,1,,1,,2026-06-19 17:09:30
-117153,Aymen Hussein,Iraq,,1996-03-22,8062,Iraq,1,,1,,2026-06-19 17:09:30
-44032,Leo Østigård,Norway,,1999-11-28,8872,Norway,1,,1,,2026-06-19 17:09:30
-16346,Romano Schmid,Austria,,2000-01-27,816,Austria,1,,1,,2026-06-19 17:09:30
-244174,Ali Olwan,Jordan,,2000-03-26,8049,Jordan,1,,1,,2026-06-19 17:09:30
-8223,Marko Arnautovic,Austria,,1989-04-19,816,Austria,1,,1,1,2026-06-19 17:09:30
-190877,Joao Neves,Portugal,,2004-09-27,765,Portugal,1,,1,,2026-06-19 17:09:30
-612,Yoane Wissa,Congo DR,,1996-09-03,1934,Congo DR,1,,1,,2026-06-19 17:09:30
-156912,Martin Baturina,Croatia,,2003-02-16,799,Croatia,1,,1,,2026-06-19 17:09:30
-56589,Petar Musa,Croatia,,1998-03-04,799,Croatia,1,,1,,2026-06-19 17:09:30
-125010,Jude Bellingham,England,,2003-06-29,770,England,1,,1,,2026-06-19 17:09:30
-3331,Marcus Rashford,England,,1997-10-31,770,England,1,,1,,2026-06-19 17:09:30
-262187,Caleb Yirenkyi,Ghana,,2006-01-15,763,Ghana,1,,1,,2026-06-19 17:09:30
-22010,Daniel Muñoz,Colombia,,1996-05-26,818,Colombia,1,,1,,2026-06-19 17:09:30
-214531,Abbosbek Fayzullaev,Uzbekistan,,2003-10-03,8070,Uzbekistan,1,,1,,2026-06-19 17:09:30
-22396,Luis Díaz,Colombia,,1997-01-13,818,Colombia,1,1,1,,2026-06-19 17:09:30
-170245,Jaminton Campaz,Colombia,,2000-05-24,818,Colombia,1,,1,,2026-06-19 17:09:30
-67970,Michal Sadílek,Czech Republic,,1999-05-31,798,Czechia,1,,2,,2026-06-19 17:09:30
-34012,Teboho Mokoena,South Africa,,1997-01-24,774,South Africa,1,,2,1,2026-06-19 17:09:30
-31913,Ruben Vargas,Switzerland,,1998-08-05,788,Switzerland,1,1,2,,2026-06-19 17:09:30
-221764,Ermin Mahmic,Bosnia and Herzegovina,,2005-03-14,1060,Bosnia-Herzegovina,1,,2,,2026-06-19 17:09:30
-3477,Granit Xhaka,Switzerland,,1992-09-27,788,Switzerland,1,,2,1,2026-06-19 17:09:30
-171216,Nathan-Dylan Saliba,Canada,,2004-02-07,828,Canada,1,,2,,2026-06-19 17:09:30
-39927,Luis Romo,Mexico,,1995-06-05,769,Mexico,1,,2,,2026-06-19 17:09:30
+3218,Lionel Messi,Argentina,,1987-06-24,762,Argentina,5,,2,,2026-06-22 20:35:19
+6928,Deniz Undav,Germany,,1996-07-19,759,Germany,3,2,2,,2026-06-22 20:35:19
+8924,Jonathan David,Canada,,2000-01-14,828,Canada,3,,2,,2026-06-22 20:35:19
+15958,Cyle Larin,Canada,,1995-04-17,828,Canada,2,,2,,2026-06-22 20:35:19
+131040,Folarin Balogun,USA,,2001-07-03,771,United States,2,,2,,2026-06-22 20:35:19
+130173,Ismael Saibari,Morocco,,2001-01-28,815,Morocco,2,,2,,2026-06-22 20:35:19
+1556,Vinicius Junior,Brazil,,2000-07-12,764,Brazil,2,2,2,,2026-06-22 20:35:19
+171,Kai Havertz,Germany,,1999-06-11,759,Germany,2,,2,1,2026-06-22 20:35:19
+6716,Daichi Kamada,Japan,,1996-08-05,766,Japan,2,,2,,2026-06-22 20:35:19
+145613,Yasin Ayari,Sweden,,2003-10-06,792,Sweden,2,,2,,2026-06-22 20:35:19
+28770,Maximiliano Araújo,Uruguay,,2000-02-15,758,Uruguay,2,1,2,,2026-06-22 20:35:19
+118981,Elijah Just,New Zealand,,2000-05-01,783,New Zealand,2,,2,,2026-06-22 20:35:19
+3374,Kylian Mbappé,France,,1998-12-20,773,France,2,,1,,2026-06-22 20:35:19
+38101,Erling Haaland,Norway,,2000-07-21,8872,Norway,2,,1,,2026-06-22 20:35:19
+8004,Harry Kane,England,,1993-07-28,770,England,2,,1,1,2026-06-22 20:35:19
+212309,Johan Manzambi,Switzerland,,2005-10-14,788,Switzerland,2,,2,,2026-06-22 20:35:19
+30842,Matheus Cunha,Brazil,,1999-05-27,764,Brazil,2,,2,,2026-06-22 20:35:19
+97535,Brian Brobbey,Netherlands,,2002-02-01,8601,Netherlands,2,,2,,2026-06-22 20:35:19
+7459,Cody Gakpo,Netherlands,,1999-05-07,8601,Netherlands,2,2,2,,2026-06-22 20:35:19
+119460,Ayase Ueda,Japan,,1998-08-28,766,Japan,2,1,2,,2026-06-22 20:35:19
+180137,Mikel Oyarzabal,Spain,,1997-04-21,760,Spain,2,1,2,,2026-06-22 20:35:19
+39237,Julián Quiñones,Colombia,,1997-03-24,769,Mexico,1,,2,,2026-06-22 20:35:19
+3305,Raúl Jiménez,Mexico,,1991-05-05,769,Mexico,1,,2,,2026-06-22 20:35:19
+1878,Ladislav Krejčí,Czech Republic,,1999-04-20,798,Czechia,1,,2,,2026-06-22 20:35:19
+170561,In-beom Hwang,South Korea,,1996-09-20,772,South Korea,1,1,2,,2026-06-22 20:35:19
+191295,Hyun-Gyu Oh,South Korea,,2001-04-12,772,South Korea,1,,2,,2026-06-22 20:35:19
+17767,Jovo Lukić,Bosnia-Herzegovina,,1998-11-28,1060,Bosnia-Herzegovina,1,,2,,2026-06-22 20:35:19
+119594,Mauricio,Paraguay,,2001-06-22,761,Paraguay,1,,2,,2026-06-22 20:35:19
+136733,Gio Reyna,USA,,2002-11-13,771,United States,1,,2,,2026-06-22 20:35:19
+3483,Breel Embolo,Switzerland,,1997-02-14,788,Switzerland,1,1,2,1,2026-06-22 20:35:19
+115828,Boualem Khoukhi,Qatar,,1990-07-09,8030,Qatar,1,,2,,2026-06-22 20:35:19
+34646,John McGinn,Scotland,,1994-10-18,8873,Scotland,1,,2,,2026-06-22 20:35:19
+176991,Nestor Irankunda,Australia,,2006-02-09,779,Australia,1,,2,,2026-06-22 20:35:19
+4635,Connor Metcalfe,Australia,,1999-11-05,779,Australia,1,,2,,2026-06-22 20:35:19
+101074,Felix Kalu Nmecha,Germany,,2000-10-10,759,Germany,1,1,2,,2026-06-22 20:35:19
+166156,Livano Comenencia,Curaçao,,2004-02-03,9460,Curaçao,1,,2,,2026-06-22 20:35:19
+75539,Nico Schlotterbeck,Germany,,1999-12-01,759,Germany,1,,2,,2026-06-22 20:35:19
+144393,Jamal Musiala,Germany,,2003-02-26,759,Germany,1,,2,,2026-06-22 20:35:19
+184533,Nathaniel Brown,Germany,,2003-06-16,759,Germany,1,1,2,,2026-06-22 20:35:19
+7869,Virgil van Dijk,Netherlands,,1991-07-08,8601,Netherlands,1,,2,,2026-06-22 20:35:19
+48595,Keito Nakamura,Japan,,2000-07-28,766,Japan,1,1,2,,2026-06-22 20:35:19
+102193,Crysencio Summerville,Netherlands,,2001-10-30,8601,Netherlands,1,1,2,,2026-06-22 20:35:19
+133584,Amad Diallo,Ivory Coast,,2002-07-11,1935,Ivory Coast,1,,1,,2026-06-22 20:35:19
+6486,Alexander Isak,Sweden,,1999-09-21,792,Sweden,1,3,2,,2026-06-22 20:35:19
+144669,Omar Rekik,Tunisia,,2001-12-20,802,Tunisia,1,,2,,2026-06-22 20:35:19
+8279,Viktor Gyökeres,Sweden,,1998-06-04,792,Sweden,1,1,2,,2026-06-22 20:35:19
+15354,Mattias Svanberg,Sweden,,1999-01-05,792,Sweden,1,,2,,2026-06-22 20:35:19
+191972,Emam Ashour,Egypt,,1998-02-20,825,Egypt,1,,2,,2026-06-22 20:35:19
+103094,Abdulelah Al Amri,Saudi Arabia,,1997-01-15,801,Saudi Arabia,1,,2,,2026-06-22 20:35:19
+3804,Ramin Rezaeian,Iran,,1990-03-21,840,Iran,1,1,2,,2026-06-22 20:35:19
+172641,Mohammad Mohebi,Iran,,1998-12-20,840,Iran,1,,2,,2026-06-22 20:35:19
+172762,Bradley Barcola,France,,2002-09-02,773,France,1,,1,,2026-06-22 20:35:19
+265040,Ibrahim M'Baye,Senegal,,2008-01-24,804,Senegal,1,,1,,2026-06-22 20:35:19
+117153,Aymen Hussein,Iraq,,1996-03-22,8062,Iraq,1,,1,,2026-06-22 20:35:19
+44032,Leo Østigård,Norway,,1999-11-28,8872,Norway,1,,1,,2026-06-22 20:35:19
+16346,Romano Schmid,Austria,,2000-01-27,816,Austria,1,,2,,2026-06-22 20:35:19
+244174,Ali Olwan,Jordan,,2000-03-26,8049,Jordan,1,,1,,2026-06-22 20:35:19
+8223,Marko Arnautovic,Austria,,1989-04-19,816,Austria,1,,2,1,2026-06-22 20:35:19
+190877,Joao Neves,Portugal,,2004-09-27,765,Portugal,1,,1,,2026-06-22 20:35:19
+612,Yoane Wissa,Congo DR,,1996-09-03,1934,Congo DR,1,,1,,2026-06-22 20:35:19
+156912,Martin Baturina,Croatia,,2003-02-16,799,Croatia,1,,1,,2026-06-22 20:35:19
+56589,Petar Musa,Croatia,,1998-03-04,799,Croatia,1,,1,,2026-06-22 20:35:19
+125010,Jude Bellingham,England,,2003-06-29,770,England,1,,1,,2026-06-22 20:35:19
+3331,Marcus Rashford,England,,1997-10-31,770,England,1,,1,,2026-06-22 20:35:19
+262187,Caleb Yirenkyi,Ghana,,2006-01-15,763,Ghana,1,,1,,2026-06-22 20:35:19
+22010,Daniel Muñoz,Colombia,,1996-05-26,818,Colombia,1,,1,,2026-06-22 20:35:19
+214531,Abbosbek Fayzullaev,Uzbekistan,,2003-10-03,8070,Uzbekistan,1,,1,,2026-06-22 20:35:19
+22396,Luis Díaz,Colombia,,1997-01-13,818,Colombia,1,1,1,,2026-06-22 20:35:19
+170245,Jaminton Campaz,Colombia,,2000-05-24,818,Colombia,1,,1,,2026-06-22 20:35:19
+67970,Michal Sadílek,Czech Republic,,1999-05-31,798,Czechia,1,,2,,2026-06-22 20:35:19
+34012,Teboho Mokoena,South Africa,,1997-01-24,774,South Africa,1,,2,1,2026-06-22 20:35:19
+31913,Ruben Vargas,Switzerland,,1998-08-05,788,Switzerland,1,1,2,,2026-06-22 20:35:19
+221764,Ermin Mahmic,Bosnia and Herzegovina,,2005-03-14,1060,Bosnia-Herzegovina,1,,2,,2026-06-22 20:35:19
+3477,Granit Xhaka,Switzerland,,1992-09-27,788,Switzerland,1,,2,1,2026-06-22 20:35:19
+171216,Nathan-Dylan Saliba,Canada,,2004-02-07,828,Canada,1,,2,,2026-06-22 20:35:19
+39927,Luis Romo,Mexico,,1995-06-05,769,Mexico,1,,2,,2026-06-22 20:35:19
+177823,Alex Freeman,USA,,2004-08-09,771,United States,1,,2,,2026-06-22 20:35:19
+165622,Matías Galarza,Paraguay,,2002-02-11,761,Paraguay,1,,2,,2026-06-22 20:35:19
+166376,Anthony Elanga,Sweden,,2002-04-27,792,Sweden,1,,2,,2026-06-22 20:35:19
+8472,Memphis Depay,Netherlands,,1994-02-13,8601,Netherlands,1,,2,,2026-06-22 20:35:19
+1747,Franck Kessié,Ivory Coast,,1996-12-19,1935,Ivory Coast,1,,1,,2026-06-22 20:35:19
+49080,Junya Ito,Japan,,1993-03-09,766,Japan,1,,2,,2026-06-22 20:35:19
+202283,Lamine Yamal,Spain,,2007-07-13,760,Spain,1,,2,,2026-06-22 20:35:19
+40121,Kevin Pina,Cape Verde Islands,,1997-01-27,1930,Cape Verde Islands,1,,2,,2026-06-22 20:35:19
+28614,Agustín Canobbio,Uruguay,,1998-10-01,758,Uruguay,1,,2,,2026-06-22 20:35:19
+213119,Hélio Varela,Cape Verde Islands,,2002-05-03,1930,Cape Verde Islands,1,,2,,2026-06-22 20:35:19
+176993,Finn Surman,New Zealand,,2003-09-23,783,New Zealand,1,,2,,2026-06-22 20:35:19
+295848,Mostafa Ziko,Egypt,,1997-04-27,825,Egypt,1,1,2,,2026-06-22 20:35:19
+3754,Mohamed Salah,Egypt,,1992-06-15,825,Egypt,1,2,2,,2026-06-22 20:35:19
+180952,Trezeguet,Egypt,,1994-10-01,825,Egypt,1,,2,,2026-06-22 20:35:19

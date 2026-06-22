@@ -1,29 +1,42 @@
 ﻿match_id,competition,journee,statut,date_heure,equipe_domicile_id,equipe_domicile,equipe_exterieur_id,equipe_exterieur,score_domicile_mi_temps,score_exterieur_mi_temps,score_domicile_final,score_exterieur_final,stade,ville,arbitre,derniere_maj
-537327,FIFA World Cup,1,FINISHED,2026-06-11 19:00,769,Mexico,774,South Africa,1,0,2,0,,World,Wilton Sampaio,2026-06-19 17:19:32
-537328,FIFA World Cup,1,FINISHED,2026-06-12 02:00,772,South Korea,798,Czechia,0,0,2,1,,World,Amin Omar,2026-06-19 17:19:32
-537333,FIFA World Cup,1,FINISHED,2026-06-12 19:00,828,Canada,1060,Bosnia-Herzegovina,0,1,1,1,,World,Facundo Tello,2026-06-19 17:19:32
-537345,FIFA World Cup,1,FINISHED,2026-06-13 01:00,771,United States,761,Paraguay,3,0,4,1,,World,Danny Makkelie,2026-06-19 17:19:32
-537334,FIFA World Cup,1,FINISHED,2026-06-13 19:00,8030,Qatar,788,Switzerland,0,1,1,1,,World,Said Martinez,2026-06-19 17:19:32
-537339,FIFA World Cup,1,FINISHED,2026-06-13 22:00,764,Brazil,815,Morocco,1,1,1,1,,World,Slavko Vinčič,2026-06-19 17:19:32
-537340,FIFA World Cup,1,FINISHED,2026-06-14 01:00,836,Haiti,8873,Scotland,0,1,0,1,,World,Mustapha Ghorbal,2026-06-19 17:19:32
-537346,FIFA World Cup,1,FINISHED,2026-06-14 04:00,779,Australia,803,Turkey,1,0,2,0,,World,Jesús Valenzuela,2026-06-19 17:19:32
-537351,FIFA World Cup,1,FINISHED,2026-06-14 17:00,759,Germany,9460,Curaçao,3,1,7,1,,World,Jalal Jayed,2026-06-19 17:19:32
-537357,FIFA World Cup,1,FINISHED,2026-06-14 20:00,8601,Netherlands,766,Japan,0,0,2,2,,World,Ismail Elfath,2026-06-19 17:19:32
-537352,FIFA World Cup,1,FINISHED,2026-06-14 23:00,1935,Ivory Coast,791,Ecuador,0,0,1,0,,World,François Letexier,2026-06-19 17:19:32
-537358,FIFA World Cup,1,FINISHED,2026-06-15 02:00,792,Sweden,802,Tunisia,2,1,5,1,,World,Yael Falcón,2026-06-19 17:19:32
-537369,FIFA World Cup,1,FINISHED,2026-06-15 16:00,760,Spain,1930,Cape Verde Islands,0,0,0,0,,World,Adham Makhadmeh,2026-06-19 17:19:32
-537363,FIFA World Cup,1,FINISHED,2026-06-15 19:00,805,Belgium,825,Egypt,0,1,1,1,,World,Ramon Abatti Abel,2026-06-19 17:19:32
-537370,FIFA World Cup,1,FINISHED,2026-06-15 22:00,801,Saudi Arabia,758,Uruguay,1,0,1,1,,World,Maurizio Mariani,2026-06-19 17:19:32
-537364,FIFA World Cup,1,FINISHED,2026-06-16 01:00,840,Iran,783,New Zealand,1,1,2,2,,World,César Ramos,2026-06-19 17:19:32
-537391,FIFA World Cup,1,FINISHED,2026-06-16 19:00,773,France,804,Senegal,0,0,3,1,,World,Alireza Faghani,2026-06-19 17:19:32
-537392,FIFA World Cup,1,FINISHED,2026-06-16 22:00,8062,Iraq,8872,Norway,1,2,1,4,,World,Pierre Atcho,2026-06-19 17:19:32
-537397,FIFA World Cup,1,FINISHED,2026-06-17 01:00,762,Argentina,778,Algeria,1,0,3,0,,World,Szymon Marciniak,2026-06-19 17:19:32
-537398,FIFA World Cup,1,FINISHED,2026-06-17 04:00,816,Austria,8049,Jordan,1,0,3,1,,World,Dahane Beida,2026-06-19 17:19:32
-537403,FIFA World Cup,1,FINISHED,2026-06-17 17:00,765,Portugal,1934,Congo DR,1,1,1,1,,World,Abdulrahman Al Jassim,2026-06-19 17:19:32
-537409,FIFA World Cup,1,FINISHED,2026-06-17 20:00,770,England,799,Croatia,2,2,4,2,,World,Clément Turpin,2026-06-19 17:19:32
-537410,FIFA World Cup,1,FINISHED,2026-06-17 23:00,763,Ghana,1836,Panama,0,0,1,0,,World,Glenn Nyberg,2026-06-19 17:19:32
-537404,FIFA World Cup,1,FINISHED,2026-06-18 02:00,8070,Uzbekistan,818,Colombia,0,1,1,3,,World,Anthony Taylor,2026-06-19 17:19:32
-537329,FIFA World Cup,2,FINISHED,2026-06-18 16:00,798,Czechia,774,South Africa,1,0,1,1,,World,Tori Penso,2026-06-19 17:19:32
-537335,FIFA World Cup,2,FINISHED,2026-06-18 19:00,788,Switzerland,1060,Bosnia-Herzegovina,0,0,4,1,,World,João Pinheiro,2026-06-19 17:19:32
-537336,FIFA World Cup,2,FINISHED,2026-06-18 22:00,828,Canada,8030,Qatar,3,0,6,0,,World,Cristián Garay,2026-06-19 17:19:32
-537330,FIFA World Cup,2,FINISHED,2026-06-19 01:00,769,Mexico,772,South Korea,0,0,1,0,,World,Gustavo Tejera,2026-06-19 17:19:32
+537327,FIFA World Cup,1,FINISHED,2026-06-11 19:00,769,Mexico,774,South Africa,1,0,2,0,,World,Wilton Sampaio,2026-06-22 20:35:25
+537328,FIFA World Cup,1,FINISHED,2026-06-12 02:00,772,South Korea,798,Czechia,0,0,2,1,,World,Amin Omar,2026-06-22 20:35:25
+537333,FIFA World Cup,1,FINISHED,2026-06-12 19:00,828,Canada,1060,Bosnia-Herzegovina,0,1,1,1,,World,Facundo Tello,2026-06-22 20:35:25
+537345,FIFA World Cup,1,FINISHED,2026-06-13 01:00,771,United States,761,Paraguay,3,0,4,1,,World,Danny Makkelie,2026-06-22 20:35:25
+537334,FIFA World Cup,1,FINISHED,2026-06-13 19:00,8030,Qatar,788,Switzerland,0,1,1,1,,World,Said Martinez,2026-06-22 20:35:25
+537339,FIFA World Cup,1,FINISHED,2026-06-13 22:00,764,Brazil,815,Morocco,1,1,1,1,,World,Slavko Vinčič,2026-06-22 20:35:25
+537340,FIFA World Cup,1,FINISHED,2026-06-14 01:00,836,Haiti,8873,Scotland,0,1,0,1,,World,Mustapha Ghorbal,2026-06-22 20:35:25
+537346,FIFA World Cup,1,FINISHED,2026-06-14 04:00,779,Australia,803,Turkey,1,0,2,0,,World,Jesús Valenzuela,2026-06-22 20:35:25
+537351,FIFA World Cup,1,FINISHED,2026-06-14 17:00,759,Germany,9460,Curaçao,3,1,7,1,,World,Jalal Jayed,2026-06-22 20:35:25
+537357,FIFA World Cup,1,FINISHED,2026-06-14 20:00,8601,Netherlands,766,Japan,0,0,2,2,,World,Ismail Elfath,2026-06-22 20:35:25
+537352,FIFA World Cup,1,FINISHED,2026-06-14 23:00,1935,Ivory Coast,791,Ecuador,0,0,1,0,,World,François Letexier,2026-06-22 20:35:25
+537358,FIFA World Cup,1,FINISHED,2026-06-15 02:00,792,Sweden,802,Tunisia,2,1,5,1,,World,Yael Falcón,2026-06-22 20:35:25
+537369,FIFA World Cup,1,FINISHED,2026-06-15 16:00,760,Spain,1930,Cape Verde Islands,0,0,0,0,,World,Adham Makhadmeh,2026-06-22 20:35:25
+537363,FIFA World Cup,1,FINISHED,2026-06-15 19:00,805,Belgium,825,Egypt,0,1,1,1,,World,Ramon Abatti Abel,2026-06-22 20:35:25
+537370,FIFA World Cup,1,FINISHED,2026-06-15 22:00,801,Saudi Arabia,758,Uruguay,1,0,1,1,,World,Maurizio Mariani,2026-06-22 20:35:25
+537364,FIFA World Cup,1,FINISHED,2026-06-16 01:00,840,Iran,783,New Zealand,1,1,2,2,,World,César Ramos,2026-06-22 20:35:25
+537391,FIFA World Cup,1,FINISHED,2026-06-16 19:00,773,France,804,Senegal,0,0,3,1,,World,Alireza Faghani,2026-06-22 20:35:25
+537392,FIFA World Cup,1,FINISHED,2026-06-16 22:00,8062,Iraq,8872,Norway,1,2,1,4,,World,Pierre Atcho,2026-06-22 20:35:25
+537397,FIFA World Cup,1,FINISHED,2026-06-17 01:00,762,Argentina,778,Algeria,1,0,3,0,,World,Szymon Marciniak,2026-06-22 20:35:25
+537398,FIFA World Cup,1,FINISHED,2026-06-17 04:00,816,Austria,8049,Jordan,1,0,3,1,,World,Dahane Beida,2026-06-22 20:35:25
+537403,FIFA World Cup,1,FINISHED,2026-06-17 17:00,765,Portugal,1934,Congo DR,1,1,1,1,,World,Abdulrahman Al Jassim,2026-06-22 20:35:25
+537409,FIFA World Cup,1,FINISHED,2026-06-17 20:00,770,England,799,Croatia,2,2,4,2,,World,Clément Turpin,2026-06-22 20:35:25
+537410,FIFA World Cup,1,FINISHED,2026-06-17 23:00,763,Ghana,1836,Panama,0,0,1,0,,World,Glenn Nyberg,2026-06-22 20:35:25
+537404,FIFA World Cup,1,FINISHED,2026-06-18 02:00,8070,Uzbekistan,818,Colombia,0,1,1,3,,World,Anthony Taylor,2026-06-22 20:35:25
+537329,FIFA World Cup,2,FINISHED,2026-06-18 16:00,798,Czechia,774,South Africa,1,0,1,1,,World,Tori Penso,2026-06-22 20:35:25
+537335,FIFA World Cup,2,FINISHED,2026-06-18 19:00,788,Switzerland,1060,Bosnia-Herzegovina,0,0,4,1,,World,João Pinheiro,2026-06-22 20:35:25
+537336,FIFA World Cup,2,FINISHED,2026-06-18 22:00,828,Canada,8030,Qatar,3,0,6,0,,World,Cristián Garay,2026-06-22 20:35:25
+537330,FIFA World Cup,2,FINISHED,2026-06-19 01:00,769,Mexico,772,South Korea,0,0,1,0,,World,Gustavo Tejera,2026-06-22 20:35:25
+537348,FIFA World Cup,2,FINISHED,2026-06-19 19:00,771,United States,779,Australia,2,0,2,0,,World,Felix Zwayer,2026-06-22 20:35:25
+537342,FIFA World Cup,2,FINISHED,2026-06-19 22:00,8873,Scotland,815,Morocco,0,1,0,1,,World,Il'giz Tantashev,2026-06-22 20:35:25
+537341,FIFA World Cup,2,FINISHED,2026-06-20 00:30,764,Brazil,836,Haiti,3,0,3,0,,World,Alejandro Hernández Hernández,2026-06-22 20:35:25
+537347,FIFA World Cup,2,FINISHED,2026-06-20 03:00,803,Turkey,761,Paraguay,0,1,0,1,,World,Ivan Barton,2026-06-22 20:35:25
+537359,FIFA World Cup,2,FINISHED,2026-06-20 17:00,8601,Netherlands,792,Sweden,2,0,5,1,,World,Michael Oliver,2026-06-22 20:35:25
+537353,FIFA World Cup,2,FINISHED,2026-06-20 20:00,759,Germany,1935,Ivory Coast,0,1,2,1,,World,Juan Benítez,2026-06-22 20:35:25
+537354,FIFA World Cup,2,FINISHED,2026-06-21 00:00,791,Ecuador,9460,Curaçao,0,0,0,0,,World,Ning Ma,2026-06-22 20:35:25
+537360,FIFA World Cup,2,FINISHED,2026-06-21 04:00,802,Tunisia,766,Japan,0,2,0,4,,World,István Kovács,2026-06-22 20:35:25
+537371,FIFA World Cup,2,FINISHED,2026-06-21 16:00,760,Spain,801,Saudi Arabia,3,0,4,0,,World,Raphael Claus,2026-06-22 20:35:25
+537365,FIFA World Cup,2,FINISHED,2026-06-21 19:00,805,Belgium,840,Iran,0,0,0,0,,World,Darío Herrera,2026-06-22 20:35:25
+537372,FIFA World Cup,2,FINISHED,2026-06-21 22:00,758,Uruguay,1930,Cape Verde Islands,2,1,2,2,,World,Espen Eskås,2026-06-22 20:35:25
+537366,FIFA World Cup,2,FINISHED,2026-06-22 01:00,783,New Zealand,825,Egypt,1,0,1,3,,World,Omar Mohamed Al Ali,2026-06-22 20:35:25
+537399,FIFA World Cup,2,FINISHED,2026-06-22 17:00,762,Argentina,816,Austria,1,0,2,0,,World,Amin Omar,2026-06-22 20:35:25
